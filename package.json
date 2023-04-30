@@ -1,0 +1,19 @@
+{
+  "name": "plswork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "pegjs": "^0.10.0"
+  },
+  "devDependencies": {
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "through2": "^4.0.2"
+  }
+}
